@@ -1,6 +1,6 @@
-import {ExpressServer} from '../core/classes/ExpressServer.ts';
-import {connectDatabase} from '../core/services/connectDatabase.ts'; 
-import config from '../settings/index.ts';
+import {ExpressServer} from '../core/classes/ExpressServer';
+import {connectDatabase} from '../core/services/connectDatabase'; 
+import config from '../settings/index';
 import * as path from 'path';
 
 // Define Server
