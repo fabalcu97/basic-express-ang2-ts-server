@@ -1,2 +1,2 @@
 
-export {connectDatabase} from '../classes/MongoModel.ts';
+export {connectDatabase} from '../classes/MongoModel';
